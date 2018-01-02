@@ -39,9 +39,9 @@ The Peer Review Documentation and Process is a living standard, raise a Pull req
 
 > as we forgive designers who have never coded.
 
-> Lead us not into frustration
+> Lead us not into pre-optimization
 
-> but deliver us from pre-optimization.
+> but deliver us from frustration.
 
 > For thine is the interface, the user experience, and the business logic
 
