@@ -20,7 +20,7 @@ As a requestor, your duties are outlined: [Here](PULL_REQUESTOR_GUIDELINES.md)
 As a reviewer, your duties are outlined: [Here](PULL_REVIEWER_GUIDELINES.md)
 
 ### How do I add suggestions to this? 
-The Peer Review Documentation and Process is a living standard, raise a Pull Request to suggest changes in ./github/docs. 
+The Peer Review Documentation and Process is a living standard, raise a Pull Request to suggest changes in ./github  
 
 ### What is the Engineer's Prayer?
 > Our pages, who are in cache,
