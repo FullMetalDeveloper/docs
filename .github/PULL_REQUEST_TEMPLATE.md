@@ -8,7 +8,7 @@ Dependencies: Does this code require any dependency updates or environment chang
 - ?  
 
 Senior Reviewers (One required):  
-@fullmetaldeveloper @aewing @jonStube @tooshel @jsdevel
+@fullmetaldeveloper @aewing @jonstuebe @tooshel @jsdevel
 
 Peers (One Required): 
-@garretttaco @shaneu @embarbe 
+@garretttaco @shaneu @eemebarbe 
