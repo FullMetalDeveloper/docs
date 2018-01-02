@@ -10,7 +10,7 @@ Keeping these tenets in mind, Peer Review in process is creating a respectful, c
 ### How do I raise a peer review?
 1. Click "Create Pull Request" when browsing the repository on github.com
 2. Requestor: Complete the review template, found [Here](PULL_REQUEST_TEMPLATE.md)
-3. Atleast ONE senior Engineer and atleast ONE direct peer are tagged as reviewers.
+3. Atleast ONE Senior Engineer and atleast ONE direct peer are tagged as reviewers.
 4. Await feedback, either updating the PR or merging the PR upon approval!
 
 ### As a Requestor, what are my duties? 
@@ -20,7 +20,7 @@ As a requestor, your duties are outlined: [Here](PULL_REQUESTOR_GUIDELINES.md)
 As a reviewer, your duties are outlined: [Here](PULL_REVIEWER_GUIDELINES.md)
 
 ### How do I add suggestions to this? 
-The Peer Review Documentation and Process is a living standard, raise a Pull request to suggest changes in ./github/docs. 
+The Peer Review Documentation and Process is a living standard, raise a Pull Request to suggest changes in ./github/docs. 
 
 ### What is the Engineer's Prayer?
 > Our pages, who are in cache,
