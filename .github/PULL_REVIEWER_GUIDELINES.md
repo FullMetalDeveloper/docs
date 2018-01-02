@@ -22,7 +22,8 @@ Investigate - This change may introduce breaking functionality, reviewer is gran
 
 Reason: Why is this change justified?  
 
-Snippet: If “request changes” has been selected, and a code refactor is required, a code block detailing the changes must be included. 
+Snippet: If “request changes” has been selected, and a code refactor is required, 
+a code block detailing the changes must be included. 
 ```
 
 ### Handling Escalations
