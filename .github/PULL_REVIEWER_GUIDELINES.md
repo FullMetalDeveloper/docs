@@ -4,6 +4,8 @@ As a reviewer, your review is guided by two overarching questions:
 
 > Question 2: Is this code able to be understood through code structure or documentation? 
 
+The answers to both these questions are the largest factors weighing on approving or requesting changes to a pull request. 
+
 ### Communication: 
 Reviewers are expected to provide concise, constructive feedback given respectfully to both fellow reviewers and the peer review requestor.
 
