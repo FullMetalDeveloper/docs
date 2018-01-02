@@ -41,7 +41,7 @@ The Peer Review Documentation and Process is a living standard, raise a Pull req
 
 > Lead us not into pre-optimization
 
-> but deliver us from frustration.
+> but deliver us from webpack.
 
 > For thine is the interface, the user experience, and the business logic
 
