@@ -23,31 +23,19 @@ As a reviewer, your duties are outlined: [Here](PULL_REVIEWER_GUIDELINES.md)
 The Peer Review Documentation and Process is a living standard, raise a Pull request to suggest changes in ./github/docs. 
 
 ### What is the Engineer's Prayer?
-> Our pages, who are in cache,
-
-> Hello be thy name.
-
-> Thy external libs come.
-
-> Thy rendering be done
-
-> On IE as it is on Chrome.
-
-> Give us this day our daily JSON payload
-
-> and forgive us our syntax
-
-> as we forgive designers who have never coded.
-
-> Lead us not into frustration
-
-> but deliver us from pre-optimization.
-
-> For thine is the interface, the user experience, and the business logic
-
-> Looping forever and ever.
-
-> Refresh.
+  Our pages, who are in cache,
+  Hello be thy name.
+  Thy external libs come.
+  Thy rendering be done
+  On IE as it is on Chrome.
+  Give us this day our daily JSON payload
+  and forgive us our syntax
+  as we forgive designers who have never coded.
+  Lead us not into frustration
+  but deliver us from pre-optimization.
+  For thine is the interface, the user experience, and the business logic
+  Looping forever and ever.
+  Refresh.
 
 
 
