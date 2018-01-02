@@ -1,20 +1,20 @@
 # Peer Reviewer Guidelines
+As a reviewer, your review is guided by two overarching questions: 
 > Question 1: Does this accomplish the intent of the ticket? 
 
-As Engineers our task is to solve problems. 
-
 > Question 2: Is this code able to be understood through code structure or documentation? 
-- As Engineers, we create solutions that are able to be understood by our peers, both technical and non-technical. 
+
 
 ### Suggesting Fixes: 
+Reviewers are encouraged to offer feedback and suggestions for improvement. Below is a brief summary of the levels of feedback that may be given. 
 
-Major - This presents a structural issue that if not fixed, WILL/COULD lead to issues. The reviewer MUST “request changes” along with justification. 
+Major - This presents a structural issue that if not fixed, WILL/COULD lead to issues. The reviewer MUST “request changes” along with providing a justification. 
 
-Minor - This change is optional, having no significant impact. The reviewer MAY NOT “request changes”
+Minor - This change is optional, having no significant impact. The reviewer MAY NOT “request changes”. 
 
 Investigate - This change may introduce breaking functionality, reviewer is granted discretion using “request changes” if it is unclear if the change will break existing functionality. Justification must be included. 
 
-Fix template: 
+### Fix Comment template: 
 ```
 [Major, Minor, Investigate] - Concise problem statement. 
 
