@@ -4,6 +4,8 @@ As a reviewer, your review is guided by two overarching questions:
 
 > Question 2: Is this code able to be understood through code structure or documentation? 
 
+### Communication: 
+Reviewers are expected to provide concise, constructive feedback given respectfully to both fellow reviewers and the peer review requestor.
 
 ### Suggesting Fixes: 
 Reviewers are encouraged to offer feedback and suggestions for improvement. Below is a brief summary of the levels of feedback that may be given. 
