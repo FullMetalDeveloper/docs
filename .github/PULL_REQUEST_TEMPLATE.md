@@ -15,6 +15,8 @@ Senior Reviewers (One required):  
 Peers (One Required): 
 @garretttaco @shaneu @eemebarbe 
 
+Pull Request Guidlines, READ: [THIS](CONTRIBUTING.md)
+
 Pull Requestor READ: [THIS](PULL_REQUESTOR_GUIDELINES.md)
 
 Pull Reviewer READ: [THIS](PULL_REVIEWER_GUIDELINES.md)
