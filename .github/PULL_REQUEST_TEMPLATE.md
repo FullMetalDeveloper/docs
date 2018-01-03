@@ -7,7 +7,7 @@ Changes - What was changed?
 - [x] changes
 
 Dependencies: Does this code require any dependency updates or environment changes?
-- [x] Is this not a strong, independent, commit that needs no dependencies?
+- [x] Is this or is this not a strong, independent, commit that needs no dependencies?
 
 Senior Reviewers (One required):  
 @fullmetaldeveloper @aewing @jonstuebe @tooshel @jsdevel
