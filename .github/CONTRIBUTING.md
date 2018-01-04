@@ -6,6 +6,7 @@
 - [ ] Were eslint rules used in development? 
 - [ ] Does the code under review pass linting with no errors? 
 > Prettier is the preferred tool for code formatting. https://github.com/prettier/prettier
+>
 > The eslint rules for self show are encouraged to be used, and found here: https://github.com/colonyamerican/portico/blob/develop/applications/self-show/.eslintrc
 
 ### Documentation 
