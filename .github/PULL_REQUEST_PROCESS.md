@@ -1,4 +1,4 @@
-# A few words on Peer Review
+# A few words on Pull Requests/Peer Review
 
 #### What is Peer Review?
 Peer review is the process of writing better software as a team while emphasizing: 
