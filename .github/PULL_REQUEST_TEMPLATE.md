@@ -7,13 +7,15 @@ Changes - What was changed?
 - [x] changes
 
 Dependencies: Does this code require any dependency updates or environment changes?
-- Maybe the change wasn't a strong, independent commit, that has no dependencies?
+- [x] Is this or is this not a strong, independent, commit that needs no dependencies?
 
 Senior Reviewers (One required):  
 @fullmetaldeveloper @aewing @jonstuebe @tooshel @jsdevel
 
 Peers (One Required): 
 @garretttaco @shaneu @eemebarbe 
+
+Pull Request Guidlines, READ: [THIS](CONTRIBUTING.md)
 
 Pull Requestor READ: [THIS](PULL_REQUESTOR_GUIDELINES.md)
 
