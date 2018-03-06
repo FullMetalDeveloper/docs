@@ -1,4 +1,4 @@
-# A few words on Pull Requests/Peer Review
+# A few words on Peer Review
 
 #### What is Peer Review?
 Peer review is the process of writing better software as a team while emphasizing: 
@@ -12,8 +12,6 @@ Keeping these tenets in mind, Peer Review in process is creating a respectful, c
 2. Requestor: Complete the review template, found [Here](PULL_REQUEST_TEMPLATE.md)
 3. Atleast ONE Senior Engineer and atleast ONE direct peer are tagged as reviewers.
 4. Await feedback, either updating the PR or merging the PR upon approval!
-### What should I do before raising a pull request? 
-Before raising a pull request, you should ensure the code under review is aligned with the pre-review checklist outlined [Here](CONTRIBUTING.MD)
 
 ### As a Requestor, what are my duties? 
 As a requestor, your duties are outlined: [Here](PULL_REQUESTOR_GUIDELINES.md)
