@@ -1,5 +1,5 @@
 {
-	"title": "Amazing new feature",
+	"title": "Auto Release",
 	"body": "Please pull this in!",
 	"head": "develop",
 	"base": "master"
