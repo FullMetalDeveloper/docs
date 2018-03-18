@@ -1,6 +1,6 @@
 {
 	"title": "Amazing new feature",
 	"body": "Please pull this in!",
-	"head": "gh-pages",
+	"head": "develop",
 	"base": "master"
 }
