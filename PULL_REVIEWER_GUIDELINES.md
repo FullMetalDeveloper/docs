@@ -33,4 +33,4 @@ a code block detailing the changes must be included.
 - No more than two Senior Engineers may be pulled for escalation resolution before requiring escalation to Director level management. 
 
 #### How do I get back to the Peer Review Process? 
-Click [Here](PULL_REQUEST_PROCESS.md)
+Click [Here](README.md)
