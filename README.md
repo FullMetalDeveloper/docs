@@ -19,6 +19,9 @@ As a requestor, your duties are outlined: [Here](PULL_REQUESTOR_GUIDELINES.md)
 ### As a Reviewer, what are my duties? 
 As a reviewer, your duties are outlined: [Here](PULL_REVIEWER_GUIDELINES.md)
 
+### What are the development standards? 
+Our development standards are [Here](CONTRIBUTING.md)
+
 ### How do I add suggestions to this? 
 The Peer Review Documentation and Process is a living standard, raise a Pull Request to suggest changes in ./github  
 
